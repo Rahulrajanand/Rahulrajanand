@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Application<br>👯 I’m looking to collaborate on project<br>🤝 I’m looking for help with Backend Service<br>🌱 I’m currently learning Next.js
+🔭 I’m currently working as Quality Analyst<br>👯 I’m looking to collaborate on project<br>🌱 I’m currently learning Automation Testing
 
 
 # 💻 Tech Stack:
